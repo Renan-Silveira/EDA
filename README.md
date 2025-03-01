@@ -18,7 +18,7 @@ O principal objetivo deste projeto é demonstrar os principais passos envolvidos
   
 ### Estrutura do Repositório:
 - notebooks/: Contém os notebooks Jupyter com o passo a passo da análise.
- data/: Pasta com os conjuntos de dados utilizados para análise (os dados devem ser adicionados ao repositório conforme necessário).
+- data/: Pasta com os conjuntos de dados utilizados para análise (os dados devem ser adicionados ao repositório conforme necessário).
 - scripts/: Scripts Python utilizados no projeto para manipulação e visualização dos dados.
 
 ### Passos de Análise:
