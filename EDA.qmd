@@ -1,5 +1,7 @@
 ---
 title: "EDA"
+author: "Renan Silveira"
+format: html
 ---
 
 ## Quarto
